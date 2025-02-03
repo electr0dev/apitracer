@@ -1,8 +1,11 @@
 # apitracer
-Uygulamaların kullandığı Windows API'lerini tespit etmek için yazılmış araç. 
+
+**apitracer**, uygulamaların kullandığı Windows API'lerini basit ve pratik şekilde bulabilmek için tasarlanmış bir araçtır.
 
 ## Kullanım
-'''
-wapitrace \ornek\dosya\yolu\ornek.exe
 
-'''
+Dosya kurulum gerektirmiyor, aşağıdaki şekilde kullanabilirsiniz.
+
+```bash
+wapitrace.exe \ornek\dosya\yolu\ornek.exe
+
