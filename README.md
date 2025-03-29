@@ -4,7 +4,7 @@
 
 ## Kullanım
 
-Dosya kurulum gerektirmiyor,derledikten sonra aşağıdaki şekilde kullanabilirsiniz.
+Dosya kurulum gerektirmiyor, derledikten sonra aşağıdaki şekilde kullanabilirsiniz.
 
 ```bash
 wapitrace.exe \ornek\dosya\yolu\ornek.exe
